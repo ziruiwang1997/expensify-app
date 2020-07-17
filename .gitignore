@@ -2,3 +2,7 @@ node_modules/
 .DS_Store
 yarn-error.log
 package-lock.json
+public/bundle.js
+public/bundle.js.map
+public/style.css
+public/style.css.map
